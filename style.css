@@ -1,0 +1,9 @@
+.div {
+	display: flex;
+}
+.atividade {
+	flex: 1;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 88px;
+	color: red;
+}
